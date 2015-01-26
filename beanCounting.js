@@ -1,3 +1,7 @@
+// Code written by Jared Smith
+// Chapter 3 Bean Counting problem
+// It counts B's
+// Last work was on Saturday
 var countBs = function(bstring,countChar) {
   var bcounter = 0;
   var scounter = bstring.length;
